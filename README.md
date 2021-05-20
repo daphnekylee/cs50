@@ -1,1 +1,1 @@
-# cs50
+hosting assignments from CS50 web programming 
